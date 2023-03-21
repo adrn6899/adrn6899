@@ -68,6 +68,6 @@ Tech Stack: [
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrn6899&show_icons=true&locale=en&layout=compact" alt="adrn6899" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrn6899&show_icons=true&locale=en" alt="adrn6899" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrn6899&show_icons=true&locale=en&count_private=true" alt="adrn6899" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrn6899&" alt="adrn6899" /></p>
